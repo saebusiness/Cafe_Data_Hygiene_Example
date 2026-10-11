@@ -8,7 +8,8 @@ had the exact same type, which was “string”. The “Transaction ID” column
 and would be hard for a company to use properly, especially for analysis or accurate tracking for records.
 
 *The original dataset:*
-<img width="1885" height="217" alt="Screenshot 2026-09-30 151955" src="https://github.com/user-attachments/assets/28dad5f3-ce22-4c09-8bc6-6438621847fe" />
+<img width="861" height="210" alt="Screenshot 2026-09-21 144458" src="https://github.com/user-attachments/assets/551695ec-3b36-4c22-8637-c2eea0856a62" />
+
 
 
 ## Fixes performed
