@@ -1,0 +1,17 @@
+# Virtual environment
+.cafevenv/
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Excel temp/lock files
+~$*
+
+# Private notes (not part of the deliverable)
+Data_Cleaning_*.pdf
