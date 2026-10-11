@@ -43,7 +43,7 @@ Python was the language used. The main libraries used were:
 pandas, numpy, plotly, openpyxl, ydata-profiling, ipywidgets, missingno
 The work was done in a jupyter notebook file in VScode.
 
-## Insights and things to differently
+## Insights and reflection
 
 I think it would have been beneficial to take out the dirty columns as separate variables so I could have used them for analysis and double checking as I went through the process of cleaning the dataset. 
 
