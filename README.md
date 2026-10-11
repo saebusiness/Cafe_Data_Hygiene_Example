@@ -51,7 +51,8 @@ I could have quantified my claim of the dataset being MCAR by calculating stats 
 
 I also could have done more checks across the notebook as I was working to double check whether I was doing everything right. This could have helped me catch some problems earlier that I was working through with my analysis and clean up.
 
-## Acknowledgments
+## Acknowledgments and Licenses
 
 Original dataset comes from Ahmed Mohamed on Kaggle: https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training 
 
+License: CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
