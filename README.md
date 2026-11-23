@@ -1,6 +1,6 @@
 # Cafe_Data_Hygiene_Example
 This is an example project that involves cleaning a dirty dataset and turning into a presentable and usable dataset hypothetical cafe.
-The following summarizes the entire project briefly. For more information, check out the files listed.
+The following summarizes the entire project briefly. For a deeper look, click on the blue "Deliverable" file in the files section. Inside is a file labelled as (README) that will tell you about all of the files in the project and where to look for more info.
 
 ## Initial State
 The dataset initially had 8 columns and 10,000 rows. It had missing values and error values like “ERROR” and “UNKNOWN”. Every column in the dataset 
